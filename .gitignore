@@ -1,0 +1,25 @@
+# Flutter
+beehive-main/build/
+beehive-main/.dart_tool/
+beehive-main/.packages
+beehive-main/.flutter-plugins
+beehive-main/.flutter-plugins-dependencies
+beehive-main/android/.gradle/
+beehive-main/android/app/build/
+beehive-main/android/build/
+beehive-main/android/local.properties
+beehive-main/ios/Pods/
+beehive-main/ios/.symlinks/
+beehive-main/linux/flutter/ephemeral/
+beehive-main/macos/Flutter/ephemeral/
+beehive-main/windows/flutter/ephemeral/
+beehive-main/pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
